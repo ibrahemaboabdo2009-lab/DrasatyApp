@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">دراستي</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_schedule">الجدول الأسبوعي</string>
+    <string name="title_tasks">المهام</string>
+    <string name="title_pomodoro">بومودورو</string>
+    <string name="title_settings">الإعدادات</string>
+
+    <!-- أيام الأسبوع -->
+    <string name="day_sat">السبت</string>
+    <string name="day_sun">الأحد</string>
+    <string name="day_mon">الإثنين</string>
+    <string name="day_tue">الثلاثاء</string>
+    <string name="day_wed">الأربعاء</string>
+    <string name="day_thu">الخميس</string>
+    <string name="day_fri">الجمعة</string>
+
+    <!-- الرئيسية -->
+    <string name="today_schedule">جدول اليوم</string>
+    <string name="today_tasks">مهام اليوم</string>
+    <string name="no_classes">لا توجد حصص اليوم 🎉</string>
+    <string name="no_tasks">لا توجد مهام 🎉</string>
+
+    <!-- المهام -->
+    <string name="add_task">إضافة مهمة</string>
+    <string name="task_title">عنوان المهمة</string>
+    <string name="task_subject">المادة</string>
+    <string name="task_due_date">تاريخ التسليم</string>
+    <string name="task_priority">الأولوية</string>
+    <string name="priority_high">عالية</string>
+    <string name="priority_medium">متوسطة</string>
+    <string name="priority_low">منخفضة</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="complete">إنجاز</string>
+
+    <!-- البومودورو -->
+    <string name="start">ابدأ</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="reset">إعادة</string>
+    <string name="work_time">وقت العمل</string>
+    <string name="break_time">وقت الراحة</string>
+
+    <!-- الإعدادات -->
+    <string name="add_subject">إضافة مادة</string>
+    <string name="subject_name">اسم المادة</string>
+    <string name="subject_day">اليوم</string>
+    <string name="subject_time">الوقت</string>
+    <string name="subject_room">القاعة</string>
+    <string name="notifications_enabled">تفعيل الإشعارات</string>
+
+    <!-- إشعارات -->
+    <string name="notif_channel_name">تذكيرات المهام</string>
+    <string name="notif_channel_desc">تذكيرات بالمواعيد والمهام</string>
+    <string name="notif_task_reminder">تذكير بمهمة</string>
+</resources>

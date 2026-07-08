@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="database" path="drasaty_db" />
+        <include domain="sharedpref" path="drasaty_prefs" />
+    </cloud-backup>
+</data-extraction-rules>
